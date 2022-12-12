@@ -1,0 +1,19 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "prueba de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andres0818/npm.git"
+  },
+  "author": "Andres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andres0818/npm/issues"
+  },
+  "homepage": "https://github.com/andres0818/npm#readme"
+}
